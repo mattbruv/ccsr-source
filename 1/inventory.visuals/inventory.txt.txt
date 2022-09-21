@@ -1,0 +1,1 @@
+bandAid,gum,scotchTape,sock,duckTape
