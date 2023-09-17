@@ -1,0 +1,3 @@
+on enterFrame
+  prepareFlash()
+end

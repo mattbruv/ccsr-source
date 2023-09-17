@@ -1,0 +1,1 @@
+[[#roomid: "map2", #roomStatus: 1], [#member: "Tile.1.x", #type: #FLOR, #location: [6, 6], #width: 32, #WSHIFT: 0, #height: 32, #HSHIFT: 0, #data: [#item: [#name: "", #type: #FLOR, #visi: [#visiObj: "", #visiAct: "", #inviObj: "", #inviAct: ""], #COND: [#none, #none, #none, #none]], #move: [#U: 0, #d: 0, #L: 0, #R: 0, #COND: 1, #TIMEA: 0, #TIMEB: 0], #message: []]]]
