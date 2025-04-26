@@ -1,0 +1,12 @@
+Number,Type,Name,Registration Point,Filename
+1,sound,walk,"(0, 0)",
+2,sound,wwf_intro_screen,"(0, 0)",
+3,sound,discover,"(0, 0)",
+4,sound,chimes,"(0, 0)",
+5,sound,bloop,"(0, 0)",
+6,sound,message,"(0, 0)",
+7,sound,push,"(0, 0)",
+8,sound,walk,"(0, 0)",
+9,sound,wwf_theme_01,"(0, 0)",
+10,sound,wwf_latin_01,"(0, 0)",
+11,sound,wwf_asian_01,"(0, 0)",

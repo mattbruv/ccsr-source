@@ -1,0 +1,11 @@
+Number,Type,Name,Registration Point,Filename
+1,bitmap,blank,"(0, 0)",
+2,flash,title2,"(208, 160)",
+3,field,percentageLoaded,"(0, 0)",
+4,bitmap,instructions_WWF,"(208, 160)",
+5,shape,,"(0, 0)",
+6,shape,playAgain game button,"(0, 0)",
+7,shape,go to trivia game button,"(0, 0)",
+8,flash,endscreen,"(208, 160)",
+9,bitmap,,"(37, 14)",
+10,flash,wwf_billboard_v3,"(208, 160)",
