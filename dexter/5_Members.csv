@@ -1,9 +1,0 @@
-Number,Type,Name,Registration Point,Filename
-2,shape,invisible_btn,"(0, 0)",
-3,script,playFlash,"(0, 0)",
-4,script,flash check,"(0, 0)",
-5,script,clickOnFlash,"(0, 0)",
-6,script,setStatic,"(0, 0)",
-7,script,restartGame,"(0, 0)",
-8,script,goTonetPage,"(0, 0)",
-9,script,resume normal cursor,"(0, 0)",
