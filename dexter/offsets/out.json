@@ -1,0 +1,2319 @@
+[
+    {
+        "name": "player.normal.right.1",
+        "offset": {
+            "x": 11,
+            "y": 16
+        }
+    },
+    {
+        "name": "player.normal.right.2",
+        "offset": {
+            "x": 10,
+            "y": 16
+        }
+    },
+    {
+        "name": "player.normal.right.3",
+        "offset": {
+            "x": 11,
+            "y": 16
+        }
+    },
+    {
+        "name": "player.normal.right.4",
+        "offset": {
+            "x": 10,
+            "y": 16
+        }
+    },
+    {
+        "name": "player.normal.left.1",
+        "offset": {
+            "x": 12,
+            "y": 16
+        }
+    },
+    {
+        "name": "player.normal.left.2",
+        "offset": {
+            "x": 10,
+            "y": 16
+        }
+    },
+    {
+        "name": "player.normal.left.3",
+        "offset": {
+            "x": 12,
+            "y": 16
+        }
+    },
+    {
+        "name": "player.normal.left.4",
+        "offset": {
+            "x": 10,
+            "y": 16
+        }
+    },
+    {
+        "name": "player.normal.up.1",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "player.normal.up.2",
+        "offset": {
+            "x": 15,
+            "y": 16
+        }
+    },
+    {
+        "name": "player.normal.up.3",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "player.normal.up.4",
+        "offset": {
+            "x": 15,
+            "y": 16
+        }
+    },
+    {
+        "name": "player.normal.down.1",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "player.normal.down.2",
+        "offset": {
+            "x": 15,
+            "y": 16
+        }
+    },
+    {
+        "name": "player.normal.down.3",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "player.normal.down.4",
+        "offset": {
+            "x": 15,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.",
+        "offset": {
+            "x": 138,
+            "y": 42
+        }
+    },
+    {
+        "name": "block.2",
+        "offset": {
+            "x": 16,
+            "y": 13
+        }
+    },
+    {
+        "name": "block.10",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.16",
+        "offset": {
+            "x": 16,
+            "y": 15
+        }
+    },
+    {
+        "name": "block.17",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.19",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.20",
+        "offset": {
+            "x": 16,
+            "y": 32
+        }
+    },
+    {
+        "name": "block.21",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.22",
+        "offset": {
+            "x": 13,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.23",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.24",
+        "offset": {
+            "x": 16,
+            "y": 13
+        }
+    },
+    {
+        "name": "block.4",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.18",
+        "offset": {
+            "x": 32,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.3",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.6",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.9",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.5",
+        "offset": {
+            "x": 14,
+            "y": 13
+        }
+    },
+    {
+        "name": "block.41",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.42",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.43",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.44",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.45",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.46",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.47",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.48",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.49",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.50",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.51",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.52",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.54",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.55",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.56",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.57",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.58",
+        "offset": {
+            "x": 15,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.12",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.11",
+        "offset": {
+            "x": 31,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.34",
+        "offset": {
+            "x": 33,
+            "y": 21
+        }
+    },
+    {
+        "name": "block.14",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.15",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.13",
+        "offset": {
+            "x": 15,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.27",
+        "offset": {
+            "x": 16,
+            "y": 15
+        }
+    },
+    {
+        "name": "block.37",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.7",
+        "offset": {
+            "x": 17,
+            "y": 9
+        }
+    },
+    {
+        "name": "block.8",
+        "offset": {
+            "x": 18,
+            "y": 14
+        }
+    },
+    {
+        "name": "block.25",
+        "offset": {
+            "x": 16,
+            "y": 15
+        }
+    },
+    {
+        "name": "block.1",
+        "offset": {
+            "x": 48,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.53",
+        "offset": {
+            "x": 17,
+            "y": 16
+        }
+    },
+    {
+        "name": "bat1.pct",
+        "offset": {
+            "x": 32,
+            "y": 32
+        }
+    },
+    {
+        "name": "bat3.pct",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "bat4.pct",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.100",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.101",
+        "offset": {
+            "x": 12,
+            "y": 14
+        }
+    },
+    {
+        "name": "block.102",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.103",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.104",
+        "offset": {
+            "x": 8,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.105",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.106",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.107",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.108",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.109",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.110",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.111",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.112",
+        "offset": {
+            "x": 29,
+            "y": 17
+        }
+    },
+    {
+        "name": "block.113",
+        "offset": {
+            "x": 16,
+            "y": 31
+        }
+    },
+    {
+        "name": "block.114",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.115",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.116",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.117",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.118",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.119",
+        "offset": {
+            "x": 15,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.120",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.121",
+        "offset": {
+            "x": 15,
+            "y": 32
+        }
+    },
+    {
+        "name": "block.122",
+        "offset": {
+            "x": 16,
+            "y": 32
+        }
+    },
+    {
+        "name": "block.123",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.124",
+        "offset": {
+            "x": 16,
+            "y": 15
+        }
+    },
+    {
+        "name": "block.125",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.126",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.127",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.128",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.129",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.130",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.131",
+        "offset": {
+            "x": 16,
+            "y": 48
+        }
+    },
+    {
+        "name": "block.132",
+        "offset": {
+            "x": 16,
+            "y": 48
+        }
+    },
+    {
+        "name": "block.133",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.134",
+        "offset": {
+            "x": 16,
+            "y": 64
+        }
+    },
+    {
+        "name": "block.135",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.136",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.137",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.138",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.139",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.140",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.141",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.142",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.143",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.144",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.145",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.146",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.147",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.148",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.149",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.150",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.151",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.152",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.154",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.155",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.156",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.157",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.158",
+        "offset": {
+            "x": 15,
+            "y": 15
+        }
+    },
+    {
+        "name": "block.159",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.159b",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.160",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.161",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.162",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.163",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.164",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.165",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.166",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.167",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.168",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.169",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.170",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.171",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.172",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.173",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.174",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.175",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.176",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.177",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.178",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.179",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.180",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.181",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.182",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.183",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.184",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.185",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.186",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.187",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.26",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.28",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.29",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.30",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.31",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.32",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.33",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.35",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.36",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.38",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.39",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.39b",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.40",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.59",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.60",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.61",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.62",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.63",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.64",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.65",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.66",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.67",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.68",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.69",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.70",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.71",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.72",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.73",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.74",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.75",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.76",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.77",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.78",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.79",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.80",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.81",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.82",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.83",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.84",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.85",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.86",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.87",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.88",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.89",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.90",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.91",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.92",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.93",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.94",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.95",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.96",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.97",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.98",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "block.99",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "panda1",
+        "offset": {
+            "x": 16,
+            "y": 15
+        }
+    },
+    {
+        "name": "panda2",
+        "offset": {
+            "x": 15,
+            "y": 15
+        }
+    },
+    {
+        "name": "panda loop",
+        "offset": {
+            "x": 16,
+            "y": 15
+        }
+    },
+    {
+        "name": "fire1",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "fire2",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "fire3",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "fire loop",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "",
+        "offset": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    {
+        "name": "block.37",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "#main",
+        "offset": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    {
+        "name": "loop on frame",
+        "offset": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    {
+        "name": "#talk.face",
+        "offset": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    {
+        "name": "#sign.text",
+        "offset": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    {
+        "name": "#talk.text",
+        "offset": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    {
+        "name": "#sign.bkg",
+        "offset": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    {
+        "name": "#talk.bkg",
+        "offset": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    {
+        "name": "sound_manager",
+        "offset": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    {
+        "name": "enter.room",
+        "offset": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    {
+        "name": "reportID",
+        "offset": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    {
+        "name": "result.loop",
+        "offset": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    {
+        "name": "simple.loop",
+        "offset": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    {
+        "name": "ending.loop",
+        "offset": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    {
+        "name": "startGame behavior",
+        "offset": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    {
+        "name": "dilemma.loop",
+        "offset": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    {
+        "name": "wait while loading",
+        "offset": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    {
+        "name": "utilities",
+        "offset": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    {
+        "name": "sound object",
+        "offset": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    {
+        "name": "x.map",
+        "offset": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    {
+        "name": "x.player",
+        "offset": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    {
+        "name": "scooby behavior",
+        "offset": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    {
+        "name": "checkTheme/go to frame",
+        "offset": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    {
+        "name": "game logic",
+        "offset": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    {
+        "name": "loop on StartRound",
+        "offset": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    {
+        "name": "loop on endRound",
+        "offset": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    {
+        "name": "display correct flash frame",
+        "offset": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    {
+        "name": "go quiz",
+        "offset": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    {
+        "name": "go quiz behavior",
+        "offset": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    {
+        "name": "show ad for 10 seconds",
+        "offset": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    {
+        "name": "",
+        "offset": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    {
+        "name": "",
+        "offset": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    {
+        "name": "Next Round button",
+        "offset": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    {
+        "name": "start round",
+        "offset": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    {
+        "name": "blank",
+        "offset": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    {
+        "name": "title2",
+        "offset": {
+            "x": 208,
+            "y": 160
+        }
+    },
+    {
+        "name": "percentageLoaded",
+        "offset": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    {
+        "name": "instructions_WWF",
+        "offset": {
+            "x": 208,
+            "y": 160
+        }
+    },
+    {
+        "name": "",
+        "offset": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    {
+        "name": "playAgain game button",
+        "offset": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    {
+        "name": "go to trivia game button",
+        "offset": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    {
+        "name": "endscreen",
+        "offset": {
+            "x": 208,
+            "y": 160
+        }
+    },
+    {
+        "name": "",
+        "offset": {
+            "x": 37,
+            "y": 14
+        }
+    },
+    {
+        "name": "wwf_billboard_v3",
+        "offset": {
+            "x": 208,
+            "y": 160
+        }
+    },
+    {
+        "name": "inventory_mgr",
+        "offset": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    {
+        "name": "inventory related",
+        "offset": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    {
+        "name": "inventory display behavior",
+        "offset": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    {
+        "name": "world manager",
+        "offset": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    {
+        "name": "WWF_DEX_BAR_BLUE",
+        "offset": {
+            "x": 208,
+            "y": 32
+        }
+    },
+    {
+        "name": "0101",
+        "offset": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    {
+        "name": "0102",
+        "offset": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    {
+        "name": "0103",
+        "offset": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    {
+        "name": "0201",
+        "offset": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    {
+        "name": "0202",
+        "offset": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    {
+        "name": "0203",
+        "offset": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    {
+        "name": "0301",
+        "offset": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    {
+        "name": "0302",
+        "offset": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    {
+        "name": "0303",
+        "offset": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    {
+        "name": "0401",
+        "offset": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    {
+        "name": "0402",
+        "offset": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    {
+        "name": "0403",
+        "offset": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    {
+        "name": "walk",
+        "offset": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    {
+        "name": "wwf_intro_screen",
+        "offset": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    {
+        "name": "discover",
+        "offset": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    {
+        "name": "chimes",
+        "offset": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    {
+        "name": "bloop",
+        "offset": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    {
+        "name": "message",
+        "offset": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    {
+        "name": "push",
+        "offset": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    {
+        "name": "walk",
+        "offset": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    {
+        "name": "wwf_theme_01",
+        "offset": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    {
+        "name": "wwf_latin_01",
+        "offset": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    {
+        "name": "wwf_asian_01",
+        "offset": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    {
+        "name": "Tile.1",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "Tile.2",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "Tile.3",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "Tile.4",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "Tile.5",
+        "offset": {
+            "x": 16,
+            "y": 15
+        }
+    },
+    {
+        "name": "Tile.6",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "Tile.7",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "Tile.1.x",
+        "offset": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    {
+        "name": "Tile.2.x",
+        "offset": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    {
+        "name": "Tile.3.x",
+        "offset": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    {
+        "name": "Tile.4.x",
+        "offset": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    {
+        "name": "Tile.5.x",
+        "offset": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    {
+        "name": "Tile.6.x",
+        "offset": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    {
+        "name": "Tile.7.x",
+        "offset": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    {
+        "name": "Tile.1",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "Tile.2",
+        "offset": {
+            "x": 16,
+            "y": 16
+        }
+    },
+    {
+        "name": "",
+        "offset": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    {
+        "name": "",
+        "offset": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    {
+        "name": "",
+        "offset": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    {
+        "name": "",
+        "offset": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    {
+        "name": "talk.bg",
+        "offset": {
+            "x": 190,
+            "y": 159
+        }
+    },
+    {
+        "name": "talk.text",
+        "offset": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    {
+        "name": "invisible_btn",
+        "offset": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    {
+        "name": "playFlash",
+        "offset": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    {
+        "name": "flash check",
+        "offset": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    {
+        "name": "clickOnFlash",
+        "offset": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    {
+        "name": "setStatic",
+        "offset": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    {
+        "name": "restartGame",
+        "offset": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    {
+        "name": "goTonetPage",
+        "offset": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    {
+        "name": "resume normal cursor",
+        "offset": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    {
+        "name": "africa_inter",
+        "offset": {
+            "x": 210,
+            "y": 161
+        }
+    },
+    {
+        "name": "china_inter",
+        "offset": {
+            "x": 209,
+            "y": 161
+        }
+    },
+    {
+        "name": "forest_inter",
+        "offset": {
+            "x": 208,
+            "y": 161
+        }
+    },
+    {
+        "name": "endRound BG behavior",
+        "offset": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    {
+        "name": "StartRound BG behavior",
+        "offset": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    {
+        "name": "Dialog_big",
+        "offset": {
+            "x": 184,
+            "y": 110
+        }
+    },
+    {
+        "name": "round_head",
+        "offset": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    {
+        "name": "round_blurb",
+        "offset": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    {
+        "name": "end round display behavior",
+        "offset": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    {
+        "name": "play end round sound",
+        "offset": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    {
+        "name": "startRound Text Display Behavior",
+        "offset": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    {
+        "name": "playMessage sound",
+        "offset": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    {
+        "name": "",
+        "offset": {
+            "x": 0,
+            "y": 0
+        }
+    }
+]
